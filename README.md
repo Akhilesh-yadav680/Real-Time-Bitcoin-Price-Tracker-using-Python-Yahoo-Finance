@@ -33,12 +33,13 @@ pip install -r requirements.txt
 python bitcoin_tracker.py
 
 real-time-bitcoin-tracker/
-│
 ├── bitcoin_tracker.py     # Main Python script
-├── README.md              # Project overview (this file)
-├── requirements.txt       # Dependencies
-├── .gitignore             # Files to ignore
-└── LICENSE                # MIT License
+├── README.md              # Project overview
+├── requirements.txt       # Python dependencies
+├── .gitignore             # Git ignored files
+├── LICENSE                # MIT License
+└── screenshot/
+    └── sample.png         # Screenshot of running tracker
 
 
 
